@@ -1,1 +1,3 @@
-return {}
+return {
+  { "catppuccin/nvim", enabled = false },
+}
